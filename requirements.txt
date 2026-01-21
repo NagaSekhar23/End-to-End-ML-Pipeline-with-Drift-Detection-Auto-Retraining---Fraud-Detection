@@ -1,0 +1,10 @@
+fastapi==0.128.0
+mlflow==3.8.1
+mlflow-skinny==3.8.1
+mlflow-tracing==3.8.1
+pytorch-tabnet==4.1.0
+scikit-learn==1.7.2
+torch==2.9.1
+torchaudio==2.9.1
+torchvision==0.24.1
+uvicorn==0.40.0
